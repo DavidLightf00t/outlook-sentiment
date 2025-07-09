@@ -1,0 +1,15 @@
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\bin\Debug\SentimentAnalysisAddIn.dll
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\bin\Debug\SentimentAnalysisAddIn.pdb
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\bin\Debug\SentimentAnalysisAddIn.dll.manifest
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\bin\Debug\SentimentAnalysisAddIn.vsto
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\bin\Debug\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.csproj.AssemblyReference.cache
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.Properties.Resources.resources
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.ExplorerRibbon.resources
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.SentimentPaneControl.resources
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.csproj.GenerateResource.cache
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.csproj.CoreCompileInputs.cache
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\Sentimen.D9598131.Up2Date
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.dll
+C:\Users\dslig\OneDrive\Documents\Code\outlook-sentiment-analysis\SentimentAnalysisAddIn\SentimentAnalysisAddIn\obj\Debug\SentimentAnalysisAddIn.pdb
